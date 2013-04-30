@@ -1,0 +1,96 @@
+@CHARSET "ISO-8859-1";
+body {
+  background-color: #000000;
+}
+
+.profile-page {
+  background-image: url( http://wp.1920x1080.org/wp-content/uploads/2011/12/1920x1080-tiger-wallpaper-desktop-744603445.jpg );
+  background-position: 50% 50%;
+   background-repeat: no-repeat;
+   height: 700px;
+   font-family:  Lucida Calligraphy,Segoe UI, Tahoma, Helvetica, Verdana, sans-serif;
+   font: normal 1em ;
+   color: #fff;
+}
+
+.name {
+   font-size: 40pt;
+}
+
+.facebook {
+	background-color: #3B5998;
+	font-family: Tahoma;
+	color: #ffffff;
+	text-align: center;
+	line-height: 125px;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+#info {
+   width: 500px;
+   height: 300px;
+   position: absolute;
+   left: 20px;
+   top: 60px;
+ /* 
+ background-color: #000;
+   -moz-border-radius:6px;
+   -webkit-border-radius:6px;
+   border-radius:6px;
+   */
+   /*
+   IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS
+   -moz-box-shadow:0px 0px 14px #000000;
+   -webkit-box-shadow:0px 0px 14px #000000;
+   box-shadow:0px 0px 14px #000000;
+   /*IE 7 AND 8 DO NOT SUPPORT BLUR PROPERTY OF SHADOWS*/
+  /* opacity:0.5;
+   -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+   /*-ms-filter must come before filter
+   filter: alpha(opacity=50);
+   */
+   /*INNER ELEMENTS MUST NOT BREAK THIS ELEMENTS BOUNDARIES*/
+   /*All filters must be placed together*/
+   padding: 30px 20px;
+
+}
+
+img {
+   border: none;
+}
+
+#social-links {
+ width: 1000px;
+   height: 200px;
+   position: absolute;
+   left: 100px;
+   top: 500px;
+     background-color: #000;
+	   -moz-border-radius:6px;
+   -webkit-border-radius:6px;
+     border-radius:6px;
+	  -moz-box-shadow:0px 0px 14px #000000;
+   -webkit-box-shadow:0px 0px 14px #000000;
+   opacity:0.5;
+   -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+    filter: alpha(opacity=50);
+   padding: 20px 20px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+   font-weight: normal;
+}
+
+hr {
+   color: #fff;
+   border: 1px solid #fff;
+}
+
+ul, ul li {
+   list-style: none;
+   list-style-type: none;
+   display: inline;
+   margin-right: 5px;
+}
