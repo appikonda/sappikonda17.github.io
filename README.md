@@ -1,4 +1,3 @@
-sappikonda17.github.io
-======================
+## Sandeep Appikonda
 
-appikonda.in 
+Source for my [homepage!](http://appikonda.in)
