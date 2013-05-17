@@ -13,6 +13,8 @@ body {
    font-family:  Lucida Calligraphy,Segoe UI, Tahoma, Helvetica, Verdana, sans-serif;
    font: normal 1em ;
    color: #fff;
+   overflow: hidden
+
 }
 
 .name {
