@@ -5,7 +5,7 @@ body {
 
 .profile-page {
 
-  background-image: url( '..\images\clock-hd-wallpaper.jpg' );
+  background-image: url( https://raw.github.com/sappikonda17/sappikonda17.github.io/master/images/clock-hd-wallpaper.jpg);
   background-position: 50% 50%;
 
    background-repeat: no-repeat;
