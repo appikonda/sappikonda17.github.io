@@ -9,6 +9,7 @@ body {
   background-position: 50% 50%;
 
    background-repeat: no-repeat;
+    background-size: cover;
    height: 700px;
    font-family:  Lucida Calligraphy,Segoe UI, Tahoma, Helvetica, Verdana, sans-serif;
    font: normal 1em ;
