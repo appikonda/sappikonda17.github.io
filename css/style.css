@@ -6,10 +6,10 @@ body {
 .profile-page {
 
   background-image: url( /images/clock-hd-wallpaper.jpg);
-  b
 
-   background-repeat: no-repeat;
+  
     background-size: cover;
+     background-repeat: no-repeat;
     width: 100%;
    height: 100%;
    font-family:  Lucida Calligraphy,Segoe UI, Tahoma, Helvetica, Verdana, sans-serif;
