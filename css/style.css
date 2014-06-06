@@ -70,7 +70,7 @@ vertical_align : middle;
 }
 #instafeed
 {overflow:hidden;
-  zoom:1;
+  zoom:2;
   width:200px;
   top: 20px;
   max-width:100%;
