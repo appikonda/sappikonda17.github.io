@@ -70,10 +70,10 @@ vertical_align : middle;
 }
 #instafeed
 {overflow:hidden;
-  zoom:2;
+  zoom:1;
   width:200px;
   top: 20px;
-  max-width:95%;
+  max-width:100%;
   margin:20px auto;
   -webkit-transition:width 1s ease-in-out,margin .25s ease-in-out;
   -moz-transition:width 1s ease-in-out,margin .25s ease-in-out;transition:width 1s ease-in-out,margin .25s ease-in-out
