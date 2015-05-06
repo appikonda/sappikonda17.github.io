@@ -1,0 +1,70 @@
+                                               			 			               				 
+•	Experience in design, analysis, development and testing of web-based Client/Server applications using JAVA, J2EE Technologies.
+•	Designed & developed several multi-tier Web based, Standalone, Distributed, Client-Server and Multithreaded applications using Object Oriented Analysis and Design (OOAD) concepts and Service Oriented Architecture (SOA) mostly in cross platform environments.
+•	In-depth understanding of various Design Patterns like MVC, Service Facade, Service Locator, Singleton, Data Access Object, Data Transfer Object / Value Object, Business Delegate, Decorator and Factory
+•	Proficient in using PL/SQL to write Stored Procedures, Functions and Triggers with strong experience in writing complex queries in Oracle 9i/10 g, DB2 and MySQL
+•	Adept in building highly scalable, pluggable and interactive web applications with open source web frameworks like Struts, Spring MVC integrating it with Spring and Hibernate
+•	Hands on experience in using Maven and ANT for automating software build processes and managing build artefacts
+•	Well versed in developing Web-Services using Top-Down and Bottom-up approaches on Axis and CXF frameworks and configuring them for deployment on the Web-Server
+•	Excellent ability to quickly learn and use new Technologies and Tools.
+EDUCATION												
+Master of Science in Computer Science			  			   Summer 2011
+Western Kentucky University 
+
+Bachelors in Computer Science	 			                                                 May 2009
+Jawaharlal Nehru Technological University 
+
+TECHNICAL SKILLS           										
+Languages and Tools
+Java, SQL,  JEE6, Spring, Spring MVC, Spring batch, Hibernate, SOAP, REST,  HTML, JavaScript, jQuery, Ajax, CSS, XML, JSON, SVN, GIT, ANT, Log4j, Maven, Google Analytics, Gradle, Junit, Ivy,
+UNIX
+
+Platforms and IDEs
+Websphere, Apache Tomcat, , SQL Server, PostgreSQL, MySQL, IBM DB2,  Eclipse, Spring Tool Suite, Android Studio, phpMyAdmin, Rational Clear case, Rational Clear Quest, 
+
+WORK EXPERIENCE	          		     	                      					   	  
+Client: Department of Child Support Services, California		Dec 2011- Present
+Job Title: Application Developer
+Project: California Child Support Automation System (CCSAS) Child Support Enforcement (CSE)
+
+Overview: California’s Child Support Program works with parents and guardians to ensure children and families receive court-ordered financial and medical support. DCSS successfully completed the statewide transition of California's 52 county and regional child support agencies to the new single statewide child support automation system. Some of the services provided include locating a parent; establishing paternity; establishing, modifying and enforcing a court order for child support; and establishing, modifying and enforcing an order for health coverage. The mission of the California Child Support Services Program is to enhance the well-being of children and the self-sufficiency of families by providing professional services to locate parents, establish paternity and establish and enforce orders for financial and medical support. The California Child Support Automation System (CCSAS) combines statewide case management capabilities with centralized child support collection and payment processing through the State Disbursement Unit (SDU).
+
+Responsibilities:
+•	Involved in Analysis, Design, Development, Integration and Testing of application modules
+•	Involved in design and development phases of Software Development Life Cycle (SDLC)
+•	Designed the application architecture of the System based on MVC (Model View Controller), Struts Framework and J2EE specifications
+•	Used J2EE Design Patterns like Intercepting Filter, Session Façade and Service Locator in the application
+•	Develop user interfaces using JSP, CSS, Bootstrap, HTML technologies and tag libraries.
+•	Developed JavaScript functions for validation
+•	Designed application flows and involved in OOA/Design, UML Modelling and in developing Use Case Diagrams, Class Diagrams, Behavioural Diagrams (Event, Diagrams, Activity Diagrams, and Sequence Diagrams) using Rational Rose
+•	Used RAD 8 IDE to develop the application
+•	Developed complex database SQL queries/ Stored Procedures, tuning SQL queries, functions and triggers in SQL
+•	Deployed the EJB components on Web Logic application server
+•	Web UI components were developed using JSP with Java Script used for managing dynamic content on client side. JQUERY was used as JavaScript library
+•	Developed JSP custom tags to modularize and stream line web page code and implemented MVC architecture
+•	Used Struts Test Cases for testing Action Classes and developed various test cases and performed unit testing using JUNIT framework
+•	Used ANT build scripts for application build process and code generation
+•	Deployed the EAR files on IBM WebSphere 7.0 application server
+•	Used Log4J for server and client side logging to find and store exception messages
+•	Interacted with batch job scheduling using IBM Tivoli Work Scheduler
+•	Worked closely with Solution experts to understand the functional details and architecture of the Child Support Automation System (CCSAS) Child Support Enforcement (CSE) application
+•	Used Shell Scripting for running Batch Jobs on Team environments
+•	Involved in handling Hibernate as part of DB connectivity and persistence as ORM tool and writing HQL queries
+•	Used Rational ClearCase for acquiring code views and Rational ClearQuest for code integration
+•	Used XML, CSS, and XSLT in creating intermediate data files between the database application and data presentation
+•	Developed Web services - WSDL and SOAP for sending case information to other states.
+•	Used SAX parser for parsing XML files
+
+
+Environment:  
+Java 1.6, J2EE, Struts 1.2, Hibernate, Spring, JSP, Servlets2.1, JMS, XML, SOAP, WSDL, JDBC, JavaScript, UML, HTML, CSS , JUnit, WebSphere Server 7, RAD 8/8.5, Rational Rose, Rational Clear case, Rational Clear Quest, IBM DB2, UNIX, Log4J,  XSLT, ANT.
+
+FREELANCE EXPERIENCE  									
+
+Github – SuperAdd.js – https://github.com/appikonda/superadd.js
+javascript 
+Github – Online Book Store – https://github.com/appikonda/online_book_store
+PHP, MySQL, javascript
+
+Github – Cater4Party – https://github.com/appikonda/Cater4Party
+Spring, Hibernate, MySQL, Ivy, Gradle, Google Maps API, Twillo API, Amazon AWS, Bootstrap
